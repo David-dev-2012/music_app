@@ -1,0 +1,56 @@
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+class FontSize{
+FontSize._();
+
+  static double f1 = 1.0.sp;
+  static double f2 = 2.0.sp;
+  static double f3 = 3.0.sp;
+  static double f4 = 4.0.sp;
+  static double f5 = 5.0.sp;
+  static double f6 = 6.0.sp;
+  static double f7 = 7.0.sp;
+  static double f8 = 8.0.sp;
+  static double f9 = 9.0.sp;
+  static double f10 = 10.0.sp;
+  static double f11 = 11.0.sp;
+  static double f12 = 12.0.sp;
+  static double f13 = 13.0.sp;
+  static double f14 = 14.0.sp;
+  static double f15 = 15.0.sp;
+  static double f16 = 16.0.sp;
+  static double f17 = 17.0.sp;
+  static double f18 = 18.0.sp;
+  static double f19 = 19.0.sp;
+  static double f20 = 20.0.sp;
+  static double f21 = 21.0.sp;
+  static double f22 = 22.0.sp;
+  static double f23 = 23.0.sp;
+  static double f24 = 24.0.sp;
+  static double f25 = 25.0.sp;
+  static double f26 = 26.0.sp;
+  static double f27 = 27.0.sp;
+  static double f28 = 28.0.sp;
+  static double f29 = 29.0.sp;
+  static double f30 = 30.0.sp;
+  static double f31 = 31.0.sp;
+  static double f32 = 32.0.sp;
+  static double f33 = 33.0.sp;
+  static double f34 = 34.0.sp;
+  static double f35 = 35.0.sp;
+  static double f36 = 36.0.sp;
+  static double f37 = 37.0.sp;
+  static double f38 = 38.0.sp;
+  static double f39 = 39.0.sp;
+  static double f40 = 40.0.sp;
+  static double f41 = 41.0.sp;
+  static double f42 = 42.0.sp;
+  static double f43 = 43.0.sp;
+  static double f44 = 44.0.sp;
+  static double f45 = 45.0.sp;
+  static double f46 = 46.0.sp;
+  static double f47 = 47.0.sp;
+  static double f48 = 48.0.sp;
+  static double f49 = 49.0.sp;
+  static double f50 = 50.0.sp;
+}
